@@ -6,5 +6,5 @@ C++ programmer, bass guitar player, and builder of statistical software librarie
 
 For project-related inquiries, please contact:
 
-- Email: statcppgithub-AT-gmail.com
+- Email: statcppgithub@gmail.com
 - Languages: Japanese / English
