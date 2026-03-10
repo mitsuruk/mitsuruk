@@ -1,10 +1,16 @@
 # mitsuruk
 
-C++ programmer, bass guitar player, and builder of statistical software libraries.
+C++ programmer, bass player, and builder of statistical software libraries.
+
+## About
+
+I develop statistical and numerical software libraries in modern C++, with a focus on practical implementation, documentation, and cross-language usability.
 
 ## Contact
 
-For project-related inquiries, please contact:
+For project-related inquiries:
+statcppgithub@gmail.com
 
-- Email: statcppgithub@gmail.com
-- Languages: Japanese / English
+## Language
+
+Japanese / English
